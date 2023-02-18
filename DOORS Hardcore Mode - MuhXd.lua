@@ -101,7 +101,6 @@ Test.Name = "Extacuted"
 Test.Parent = game:GetService("ReplicatedStorage")
 Test = 1
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/MuhXd/DoorSuff/main/OtherSuff/Sprint"))()
 
 local SelfModules = {
     Functions = loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Functions.lua"))(),
